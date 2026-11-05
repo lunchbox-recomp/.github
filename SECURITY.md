@@ -84,4 +84,4 @@ Some tests listen on Unix sockets too. The fork's `tools/test_bot_link.cpp` and 
 
 ## What happens to a report
 
-A report opens a private advisory in the repo's Security tab, where the reporter and the maintainer, Anthony Ledesma, can comment on it. Nobody else sees it unless he adds them to it or publishes it.
+A report opens a private advisory in the repo's Security tab, where the reporter and the maintainer, Anthony Ledesma, can comment on it. Nobody else sees it unless the maintainer adds them to it or publishes it.
